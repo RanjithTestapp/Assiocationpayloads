@@ -1,0 +1,96 @@
+{
+  "eventId": 0,
+  "associationId": 86,
+  "categoryTypeId": 3,
+  "title": "Influencer Marketing",
+  "description": "Join our Hackathon to create, innovate, and connect with fellow content creators. Get feedback and showcase your skills. Register today",
+  "cityId": 148013,
+  "stateId": 32,
+  "countryId": 1,
+  "eventModeId": 44,
+  "registrationStartDate": "2024-07-27T06:04:03.648Z",
+  "registrationEndDate": "2024-07-30T06:04:03.648Z",
+  "eventStartDate": "2024-07-29T06:04:03.648Z",
+  "eventEndDate": "2024-07-31T06:04:03.648Z",
+  "broucherUrl": "",
+  "address": "Madhapur",
+  "videoUrl": "",
+  "eventStatusId": 0,
+  "phoneCode": "+91",
+  "phoneCountryId": 1,
+  "contactNumber": "7898564565",
+  "contactEmail": "contact@future.com",
+  "webSite": "",
+  "geolocation": {
+    "x": 17.419791987251436,
+    "y": 78.32488111758651
+  },
+  "isFreeEvent": true,
+  "noOfSeats": 50,
+  "isFeaturedEvent": true,
+  "bannerUrls": [
+    "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/events pictures/download (5).jpeg"
+  ],
+  "organizingGroups": [
+    163
+  ],
+  "eventRegistrationDetails": [
+    {
+      "eventRegistrationDetailId": 0,
+      "eventId": 0,
+      "isFoodProvided": true,
+      "isAccommodationProvided": true,
+      "isTransportProvided": true,
+      "title": "Early Bird Registration",
+      "applicableTillDate": "2024-07-29T06:04:03.648Z",
+      "applicableRegistrationFee": 5000,
+      "applicableCurrencyCode": "INR",
+      "onspotCurrencyCode": "INR",
+      "applicableCurrencyCountryId": 1,
+      "onspotCurrencyCountryId": 1,
+      "onSpotRegistrationFee": 8000,
+      "registeredMembers": 0
+    }
+  ],
+  "agenda": [
+    {
+      "eventAgendaId": 0,
+      "eventId": 0,
+      "title": "The Future of AI in India",
+      "description": "An in-depth look at the future of artificial intelligence in India and its potential impact on various sector",
+      "agendaDate": "2024-07-27T06:29:13.860Z",
+      "startTime": "10:00:00",
+      "endTime": "16:00:00",
+     "presenters": [
+    642,643
+   ],
+ "presentersDetails": ""
+    }
+  ],
+  "eventGuidelines": {
+    "eventGuidelineId": 0,
+    "eventId": 0,
+    "registrationGuidelines": "Participants are encouraged to pre-register for the event",
+    "cancellationGuidelines": "Clearly communicate the reason for the cancellation",
+    "importantGuidelines": "Prioritize the safety and wellbeing of attendees"
+  },
+  "eventAccountInfo": {
+    "eventAccountInfoId": 0,
+    "eventId": 0,
+    "name": "SustainableFutureForum",
+    "bankName": "Vijaya Bank",
+    "bankAccountNumber": "85986263569",
+    "bankRoutingTypeId": 46,
+    "bankRoutingType": "IFSC",
+    "bankRoutingCode": "Vijaya12358",
+    "isOrgAccount": true,
+    "upiId": "",
+    "bankingPaymentTypeId": 0
+  },
+  "hasRegistered": true,
+  "bannerUrlsString": "",
+  "categoryType": "Career & Business",
+  "eventMode": "Online",
+  "isBookmarked": true,
+  "associationName": ""
+}
