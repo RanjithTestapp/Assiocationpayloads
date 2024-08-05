@@ -1,0 +1,96 @@
+{
+  "eventId": 0,
+  "associationId": 95,
+  "categoryTypeId": 4,
+  "title": "ORPHAN & POOR CHILDREN SUPPORT",
+  "description": "JAmma Foundation has been supporting Orphan and Poor Children with Residential Care, Food, Medical Support and Education.",
+  "cityId": 148013,
+  "stateId": 32,
+  "countryId": 1,
+  "eventModeId": 43,
+  "registrationStartDate": "2024-07-27T06:04:03.648Z",
+  "registrationEndDate": "2024-08-15T06:04:03.648Z",
+  "eventStartDate": "2024-08-05T06:04:03.648Z",
+  "eventEndDate": "2024-08-31T06:04:03.648Z",
+  "broucherUrl": "",
+  "address": "Madhapur",
+  "videoUrl": "",
+  "eventStatusId": 0,
+  "phoneCode": "+91",
+  "phoneCountryId": 1,
+  "contactNumber": "7456789456",
+  "contactEmail": "info@ammafoundation.org",
+  "webSite": "",
+  "geolocation": {
+    "x": 17.419791987251436,
+    "y": 78.32488111758651
+  },
+  "isFreeEvent": true,
+  "noOfSeats": 100,
+  "isFeaturedEvent": true,
+  "bannerUrls": [
+    "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Events amma/Amma foundation event 1.jpg"
+  ],
+  "organizingGroups": [
+    185
+  ],
+  "eventRegistrationDetails": [
+    {
+      "eventRegistrationDetailId": 0,
+      "eventId": 0,
+      "isFoodProvided": true,
+      "isAccommodationProvided": true,
+      "isTransportProvided": true,
+      "title": "Advance Enrollment",
+      "applicableTillDate": "2024-08-15T06:04:03.648Z",
+      "applicableRegistrationFee": 9000,
+      "applicableCurrencyCode": "INR",
+      "onspotCurrencyCode": "INR",
+      "applicableCurrencyCountryId": 1,
+      "onspotCurrencyCountryId": 1,
+      "onSpotRegistrationFee": 15000,
+      "registeredMembers": 0
+    }
+  ],
+  "agenda": [
+    {
+      "eventAgendaId": 0,
+      "eventId": 0,
+      "title": "ORPHAN & POOR CHILDREN SUPPORT",
+      "description": "An in-depth look at the future of artificial intelligence in India and its potential impact on various sector",
+      "agendaDate": "2024-07-27T06:29:13.860Z",
+      "startTime": "10:00:00",
+      "endTime": "16:00:00",
+     "presenters": [
+    699,700
+   ],
+ "presentersDetails": ""
+    }
+  ],
+  "eventGuidelines": {
+    "eventGuidelineId": 0,
+    "eventId": 0,
+    "registrationGuidelines": "Participants are encouraged to pre-register for the event",
+    "cancellationGuidelines": "Clearly communicate the reason for the cancellation",
+    "importantGuidelines": "Prioritize the safety and wellbeing of attendees"
+  },
+  "eventAccountInfo": {
+    "eventAccountInfoId": 0,
+    "eventId": 0,
+    "name": "Amma Foundation",
+    "bankName": "Uco Bank",
+    "bankAccountNumber": "85986263569",
+    "bankRoutingTypeId": 46,
+    "bankRoutingType": "IFSC",
+    "bankRoutingCode": "Uco12358",
+    "isOrgAccount": true,
+    "upiId": "",
+    "bankingPaymentTypeId": 0
+  },
+  "hasRegistered": true,
+  "bannerUrlsString": "",
+  "categoryType": "Charity & Causes",
+  "eventMode": "In Person",
+  "isBookmarked": true,
+  "associationName": ""
+}
