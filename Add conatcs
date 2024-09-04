@@ -1,0 +1,86 @@
+{
+  "associationContactId": 0,
+  "associationContactCategoryId": 27,
+  "contactFirstName": "Raj",
+  "contactLastName": "Kumar",
+  "contactMiddleName": "S",
+  "phoneCode": "+91",
+  "contactPhoneNumber": 9812345678,
+  "associationContactCategoryName": "Accountants",
+  "phoneCountryId": 1,
+  "contactEmailId": "raj.kumar@domain.in",
+  "website": "https://www.rajkumar.in"
+}
+
+
+
+{
+  "associationContactId": 0,
+  "associationContactCategoryId": 28,
+  "contactFirstName": "Anita",
+  "contactLastName": "Sharma",
+  "contactMiddleName": "R",
+  "phoneCode": "+91",
+  "contactPhoneNumber": 989045678,
+  "associationContactCategoryName": "AV Equipment Providers",
+  "phoneCountryId": 1,
+  "contactEmailId": "Anitar@domain.in",
+  "website": "https://www.Anitasharma.in"
+}
+
+{
+  "associationContactId": 0,
+  "associationContactCategoryId": 29,
+  "contactFirstName": "Arjun",
+  "contactLastName": "Patel",
+  "contactMiddleName": "D",
+  "phoneCode": "+91",
+  "contactPhoneNumber": 9812345678,
+  "associationContactCategoryName": "Branding Consultants",
+  "phoneCountryId": 1,
+  "contactEmailId": "Arjun.kumar@domain.in",
+  "website": "https://www.Branding Consultants.in"
+}
+
+
+{
+  "associationContactId": 0,
+  "associationContactCategoryId": 30,
+  "contactFirstName": "Keerthi",
+  "contactLastName": "Patel",
+  "contactMiddleName": "k",
+  "phoneCode": "+91",
+  "contactPhoneNumber": 9889897897,
+  "associationContactCategoryName": "Catering Services",
+  "phoneCountryId": 1,
+  "contactEmailId": "Catering Services@domain.in",
+  "website": "https://www.Catering Services.in"
+}
+
+{
+  "associationContactId": 0,
+  "associationContactCategoryId": 32,
+  "contactFirstName": "Karan",
+  "contactLastName": "Patel",
+  "contactMiddleName": "k",
+  "phoneCode": "+91",
+  "contactPhoneNumber": 9675678890,
+  "associationContactCategoryName": "Conference Organizers",
+  "phoneCountryId": 1,
+  "contactEmailId": "Organizers Services@domain.in",
+  "website": "https://www.Organizers Services.in"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
