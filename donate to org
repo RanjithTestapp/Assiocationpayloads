@@ -1,0 +1,11 @@
+{
+  "associationDonationPurposeId": 4,
+  "currancyId": 1,
+  "donationAmount": 200000,
+  "donationFrequencyId": 230,
+  "isAnnoymusDonor": true,
+  "tipAmount": 1000,
+  "platformFee": 3000,
+  "totalAmount": 200000,
+  "taxIdentificationNumber": "KGFHF2255M"                                                 
+}
