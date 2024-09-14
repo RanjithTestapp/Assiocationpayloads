@@ -1,0 +1,1274 @@
+[
+  {
+    "lookupId": 1,
+    "lookupType": "AssociationMemberStatus",
+    "code": "IACV",
+    "description": "InActive"
+  },
+  {
+    "lookupId": 2,
+    "lookupType": "AssociationMemberStatus",
+    "code": "ACTV",
+    "description": "Active"
+  },
+  {
+    "lookupId": 3,
+    "lookupType": "AssociationRoleType",
+    "code": "NMBR",
+    "description": "Non Member"
+  },
+  {
+    "lookupId": 4,
+    "lookupType": "AssociationRoleType",
+    "code": "MEMR",
+    "description": "Member"
+  },
+  {
+    "lookupId": 5,
+    "lookupType": "AssociationCommitteeType",
+    "code": "COMT",
+    "description": "Committee"
+  },
+  {
+    "lookupId": 6,
+    "lookupType": "AssociationCommitteeType",
+    "code": "GROP",
+    "description": "Group"
+  },
+  {
+    "lookupId": 194,
+    "lookupType": "DashboardModuleTargetType",
+    "code": "ALLP",
+    "description": "All"
+  },
+  {
+    "lookupId": 196,
+    "lookupType": "UserRoleType",
+    "code": "APUR",
+    "description": "Association App User"
+  },
+  {
+    "lookupId": 8,
+    "lookupType": "AssociationMemberStatus",
+    "code": "RJCT",
+    "description": "Reject"
+  },
+  {
+    "lookupId": 9,
+    "lookupType": "AssociationManagementCommittees",
+    "code": "OFBR",
+    "description": "Office Bearers"
+  },
+  {
+    "lookupId": 10,
+    "lookupType": "AssociationManagementCommittees",
+    "code": "MGMT",
+    "description": "Management"
+  },
+  {
+    "lookupId": 11,
+    "lookupType": "AssociationManagementCommittees",
+    "code": "ADMN",
+    "description": "Admins"
+  },
+  {
+    "lookupId": 197,
+    "lookupType": "FeaturedEventStatus",
+    "code": "APRD",
+    "description": "Approved"
+  },
+  {
+    "lookupId": 198,
+    "lookupType": "FeaturedEventStatus",
+    "code": "PEND",
+    "description": "Pending"
+  },
+  {
+    "lookupId": 205,
+    "lookupType": "BusinessTypes",
+    "code": "LLCP",
+    "description": "Limited Liability Company (LLC)"
+  },
+  {
+    "lookupId": 12,
+    "lookupType": "AssociationMemberSize",
+    "code": "000K",
+    "description": "1-250"
+  },
+  {
+    "lookupId": 13,
+    "lookupType": "AssociationMemberSize",
+    "code": "001K",
+    "description": "100-1000"
+  },
+  {
+    "lookupId": 14,
+    "lookupType": "AssociationMemberSize",
+    "code": "010K",
+    "description": "1000-10000"
+  },
+  {
+    "lookupId": 15,
+    "lookupType": "AssociationMemberSize",
+    "code": "100K",
+    "description": "above 10000"
+  },
+  {
+    "lookupId": 16,
+    "lookupType": "AssociationMemberStatus",
+    "code": "PEND",
+    "description": "Pending"
+  },
+  {
+    "lookupId": 17,
+    "lookupType": "AssociationSystemRole",
+    "code": "MMBR",
+    "description": "Member"
+  },
+  {
+    "lookupId": 18,
+    "lookupType": "AssociationSystemRole",
+    "code": "ADMN",
+    "description": "Admin"
+  },
+  {
+    "lookupId": 19,
+    "lookupType": "AssociationSystemRole",
+    "code": "OWNR",
+    "description": "Owner"
+  },
+  {
+    "lookupId": 20,
+    "lookupType": "AssociationCommitteePermission",
+    "code": "VSBL",
+    "description": "Visibility"
+  },
+  {
+    "lookupId": 21,
+    "lookupType": "AssociationCommitteePermission",
+    "code": "INVT",
+    "description": "Invite"
+  },
+  {
+    "lookupId": 22,
+    "lookupType": "AssociationCommitteePermission",
+    "code": "ENCR",
+    "description": "Encryption"
+  },
+  {
+    "lookupId": 206,
+    "lookupType": "BusinessTypes",
+    "code": "PCOM",
+    "description": "Public Company"
+  },
+  {
+    "lookupId": 207,
+    "lookupType": "BusinessTypes",
+    "code": "SLEM",
+    "description": "Self-Employed"
+  },
+  {
+    "lookupId": 208,
+    "lookupType": "BusinessTypes",
+    "code": "GOAG",
+    "description": "Government Agency"
+  },
+  {
+    "lookupId": 209,
+    "lookupType": "BusinessTypes",
+    "code": "NOPR",
+    "description": "Nonprofit"
+  },
+  {
+    "lookupId": 210,
+    "lookupType": "BusinessTypes",
+    "code": "SPRT",
+    "description": "Self Proprietorship"
+  },
+  {
+    "lookupId": 27,
+    "lookupType": "CommitteeDefaultDescription",
+    "code": "CODD",
+    "description": "This Committee is for selected members with common interest to share most important announcements and updates."
+  },
+  {
+    "lookupId": 28,
+    "lookupType": "GroupDefaultDescription",
+    "code": "GRDD",
+    "description": "This Group is for selected members with common interest to share most important announcements and updates."
+  },
+  {
+    "lookupId": 211,
+    "lookupType": "BusinessTypes",
+    "code": "PRHD",
+    "description": "Privately Held"
+  },
+  {
+    "lookupId": 212,
+    "lookupType": "BusinessTypes",
+    "code": "PART",
+    "description": "Partnership"
+  },
+  {
+    "lookupId": 213,
+    "lookupType": "BusinessTypes",
+    "code": "OTHR",
+    "description": "Other"
+  },
+  {
+    "lookupId": 31,
+    "lookupType": "AssociationSystemRole",
+    "code": "NMBR",
+    "description": "Non Member"
+  },
+  {
+    "lookupId": 32,
+    "lookupType": "ReportContactReasons",
+    "code": "SPAM",
+    "description": "Spam"
+  },
+  {
+    "lookupId": 33,
+    "lookupType": "ReportContactReasons",
+    "code": "NVLD",
+    "description": "Not Valid"
+  },
+  {
+    "lookupId": 34,
+    "lookupType": "ReportContactReasons",
+    "code": "OTHR",
+    "description": "Others"
+  },
+  {
+    "lookupId": 35,
+    "lookupType": "DeactivateMemberReasons",
+    "code": "NPOD",
+    "description": "Non-Payment of Dues"
+  },
+  {
+    "lookupId": 36,
+    "lookupType": "DeactivateMemberReasons",
+    "code": "LOPT",
+    "description": "Lack of Participation"
+  },
+  {
+    "lookupId": 37,
+    "lookupType": "DeactivateMemberReasons",
+    "code": "BRCD",
+    "description": "Breach of Confidentiality"
+  },
+  {
+    "lookupId": 38,
+    "lookupType": "DeactivateMemberReasons",
+    "code": "EPVT",
+    "description": "Ethical or Professional Violations"
+  },
+  {
+    "lookupId": 39,
+    "lookupType": "DeactivateMemberReasons",
+    "code": "RSRQ",
+    "description": "Resignation or Request"
+  },
+  {
+    "lookupId": 40,
+    "lookupType": "DeactivateMemberReasons",
+    "code": "OTHR",
+    "description": "Others"
+  },
+  {
+    "lookupId": 41,
+    "lookupType": "EventStatus",
+    "code": "PUBL",
+    "description": "Published"
+  },
+  {
+    "lookupId": 42,
+    "lookupType": "EventStatus",
+    "code": "INRV",
+    "description": "In Review"
+  },
+  {
+    "lookupId": 214,
+    "lookupType": "AssociationStatus",
+    "code": "PEND",
+    "description": "Pending"
+  },
+  {
+    "lookupId": 44,
+    "lookupType": "EventMode",
+    "code": "ONLN",
+    "description": "Online"
+  },
+  {
+    "lookupId": 43,
+    "lookupType": "EventMode",
+    "code": "IPSN",
+    "description": "In Person"
+  },
+  {
+    "lookupId": 215,
+    "lookupType": "AssociationStatus",
+    "code": "VRFD",
+    "description": "Verified"
+  },
+  {
+    "lookupId": 47,
+    "lookupType": "GalleryType",
+    "code": "EVGL",
+    "description": "Event Gallery"
+  },
+  {
+    "lookupId": 216,
+    "lookupType": "AssociationStatus",
+    "code": "SPND",
+    "description": "Suspended"
+  },
+  {
+    "lookupId": 218,
+    "lookupType": "AssociationLinkStatus",
+    "code": "ACTV",
+    "description": "Active"
+  },
+  {
+    "lookupId": 220,
+    "lookupType": "AssociationLinkStatus",
+    "code": "RJCT",
+    "description": "Rejected"
+  },
+  {
+    "lookupId": 50,
+    "lookupType": "AssociationMemberStatus",
+    "code": "URCT",
+    "description": "User Rejected"
+  },
+  {
+    "lookupId": 221,
+    "lookupType": "DocumentExpiryType",
+    "code": "ONTM",
+    "description": "One-Time"
+  },
+  {
+    "lookupId": 53,
+    "lookupType": "AssociationManagementCommittees",
+    "code": "GUST",
+    "description": "Guests"
+  },
+  {
+    "lookupId": 54,
+    "lookupType": "EventStatus",
+    "code": "CANL",
+    "description": "Cancel"
+  },
+  {
+    "lookupId": 56,
+    "lookupType": "FundRaiseStatus",
+    "code": "ACTV",
+    "description": "Active"
+  },
+  {
+    "lookupId": 57,
+    "lookupType": "FundRaiseStatus",
+    "code": "PAUS",
+    "description": "Pause"
+  },
+  {
+    "lookupId": 59,
+    "lookupType": "PlatformFee",
+    "code": "PGWG",
+    "description": "Payment Gateway Fee"
+  },
+  {
+    "lookupId": 60,
+    "lookupType": "PlatformFee",
+    "code": "FRPF",
+    "description": "Fundraise Platform Fee"
+  },
+  {
+    "lookupId": 61,
+    "lookupType": "PlatformFee",
+    "code": "ESPF",
+    "description": "Event Subscription Platform Fee"
+  },
+  {
+    "lookupId": 62,
+    "lookupType": "PlatformFee",
+    "code": "ASSF",
+    "description": "Assocaition Subscription Fee"
+  },
+  {
+    "lookupId": 65,
+    "lookupType": "TransactionType",
+    "code": "CRDT",
+    "description": "Credit"
+  },
+  {
+    "lookupId": 67,
+    "lookupType": "AssociationCommitteeMemberStatus",
+    "code": "REMD",
+    "description": "Removed"
+  },
+  {
+    "lookupId": 68,
+    "lookupType": "AssociationCommitteeMemberStatus",
+    "code": "EXIT",
+    "description": "Left"
+  },
+  {
+    "lookupId": 69,
+    "lookupType": "AssociationCommitteeMemberStatus",
+    "code": "ACTV",
+    "description": "Active"
+  },
+  {
+    "lookupId": 70,
+    "lookupType": "AssociationMemberStatus",
+    "code": "REMD",
+    "description": "Removed"
+  },
+  {
+    "lookupId": 71,
+    "lookupType": "AssociationMemberStatus",
+    "code": "EXIT",
+    "description": "Left"
+  },
+  {
+    "lookupId": 72,
+    "lookupType": "FeedBackQuestionType",
+    "code": "OPTN",
+    "description": "Options"
+  },
+  {
+    "lookupId": 73,
+    "lookupType": "FeedBackQuestionType",
+    "code": "RTNG",
+    "description": "Rating"
+  },
+  {
+    "lookupId": 74,
+    "lookupType": "FeedBackQuestionType",
+    "code": "YORN",
+    "description": "YesOrNo"
+  },
+  {
+    "lookupId": 75,
+    "lookupType": "FeedBackQuestionType",
+    "code": "TEXT",
+    "description": "Text"
+  },
+  {
+    "lookupId": 79,
+    "lookupType": "FundRaiseWithdrawStatusType",
+    "code": "RQST",
+    "description": "Requested"
+  },
+  {
+    "lookupId": 80,
+    "lookupType": "FundRaiseWithdrawStatusType",
+    "code": "REVW",
+    "description": "Review"
+  },
+  {
+    "lookupId": 81,
+    "lookupType": "FundRaiseWithdrawStatusType",
+    "code": "RJCT",
+    "description": "Rejected"
+  },
+  {
+    "lookupId": 82,
+    "lookupType": "FundRaiseWithdrawStatusType",
+    "code": "PAID",
+    "description": "Paid"
+  },
+  {
+    "lookupId": 58,
+    "lookupType": "FundRaiseStatus",
+    "code": "CMPL",
+    "description": "Completed"
+  },
+  {
+    "lookupId": 63,
+    "lookupType": "FundRaiseReportingType",
+    "code": "PAUS",
+    "description": "Pause"
+  },
+  {
+    "lookupId": 64,
+    "lookupType": "FundRaiseReportingType",
+    "code": "URPT",
+    "description": "User Report"
+  },
+  {
+    "lookupId": 46,
+    "lookupType": "BankRoutingType",
+    "code": "IFSC",
+    "description": "IFSC Code"
+  },
+  {
+    "lookupId": 66,
+    "lookupType": "TransactionType",
+    "code": "DEBT",
+    "description": "Debit"
+  },
+  {
+    "lookupId": 83,
+    "lookupType": "FundRaiseReportReasons",
+    "code": "INAP",
+    "description": "Inappropriate Information"
+  },
+  {
+    "lookupId": 55,
+    "lookupType": "GalleryType",
+    "code": "IMAG",
+    "description": "Image"
+  },
+  {
+    "lookupId": 84,
+    "lookupType": "GalleryType",
+    "code": "DOCT",
+    "description": "Document"
+  },
+  {
+    "lookupId": 85,
+    "lookupType": "NoticeType",
+    "code": "GNRL",
+    "description": "General"
+  },
+  {
+    "lookupId": 86,
+    "lookupType": "NoticeType",
+    "code": "ANCM",
+    "description": "Announcement"
+  },
+  {
+    "lookupId": 87,
+    "lookupType": "NoticeType",
+    "code": "MDNW",
+    "description": "Media or News"
+  },
+  {
+    "lookupId": 88,
+    "lookupType": "NoticeType",
+    "code": "CMCL",
+    "description": "Commercial"
+  },
+  {
+    "lookupId": 89,
+    "lookupType": "NoticeType",
+    "code": "PYMT",
+    "description": "Payments"
+  },
+  {
+    "lookupId": 90,
+    "lookupType": "NoticeType",
+    "code": "HTWN",
+    "description": "Health & Wellness "
+  },
+  {
+    "lookupId": 91,
+    "lookupType": "NoticeType",
+    "code": "SFSC",
+    "description": "Safety & Security"
+  },
+  {
+    "lookupId": 92,
+    "lookupType": "NoticeType",
+    "code": "EMGC",
+    "description": "Emergency"
+  },
+  {
+    "lookupId": 49,
+    "lookupType": "BankRoutingType",
+    "code": "SWIFT",
+    "description": "SWIFT"
+  },
+  {
+    "lookupId": 97,
+    "lookupType": "AssociationCommitteeMemberStatus",
+    "code": "IACV",
+    "description": "Inactive"
+  },
+  {
+    "lookupId": 109,
+    "lookupType": "ModuleType",
+    "code": "EVNT",
+    "description": "Event"
+  },
+  {
+    "lookupId": 110,
+    "lookupType": "ModuleType",
+    "code": "NTBR",
+    "description": "Notice Board"
+  },
+  {
+    "lookupId": 93,
+    "lookupType": "FundRaiseReportReasons",
+    "code": "LKTP",
+    "description": "Lack of Transparency\n"
+  },
+  {
+    "lookupId": 94,
+    "lookupType": "NoticeTargetType",
+    "code": "ALMB",
+    "description": "All Members"
+  },
+  {
+    "lookupId": 102,
+    "lookupType": "PollOrSurveyQuestionType",
+    "code": "SNGL",
+    "description": "Single"
+  },
+  {
+    "lookupId": 103,
+    "lookupType": "PollOrSurveyQuestionType",
+    "code": "MUPL",
+    "description": "Multiple"
+  },
+  {
+    "lookupId": 104,
+    "lookupType": "PollOrSurveyAnswerType",
+    "code": "SNGL",
+    "description": "Single"
+  },
+  {
+    "lookupId": 105,
+    "lookupType": "PollOrSurveyAnswerType",
+    "code": "MUPL",
+    "description": "Multiple"
+  },
+  {
+    "lookupId": 106,
+    "lookupType": "PollOrSurveyAnswerType",
+    "code": "RTNG",
+    "description": "Rating"
+  },
+  {
+    "lookupId": 107,
+    "lookupType": "PollOrSurveyType",
+    "code": "SRVY",
+    "description": "Survey"
+  },
+  {
+    "lookupId": 108,
+    "lookupType": "PollOrSurveyType",
+    "code": "POLL",
+    "description": "Poll"
+  },
+  {
+    "lookupId": 111,
+    "lookupType": "ModuleType",
+    "code": "PLSV",
+    "description": "Poll Or Survey"
+  },
+  {
+    "lookupId": 112,
+    "lookupType": "ModuleType",
+    "code": "FDRS",
+    "description": "Fund Raise"
+  },
+  {
+    "lookupId": 113,
+    "lookupType": "PollOrSurveyStatus",
+    "code": "ACTV",
+    "description": "Active"
+  },
+  {
+    "lookupId": 114,
+    "lookupType": "PollOrSurveyStatus",
+    "code": "PAUS",
+    "description": "Paused"
+  },
+  {
+    "lookupId": 115,
+    "lookupType": "KYCType",
+    "code": "PANU",
+    "description": "PAN"
+  },
+  {
+    "lookupId": 116,
+    "lookupType": "KYCType",
+    "code": "ADHR",
+    "description": "Aadhaar"
+  },
+  {
+    "lookupId": 117,
+    "lookupType": "KYCType",
+    "code": "DRLS",
+    "description": "Driving License"
+  },
+  {
+    "lookupId": 118,
+    "lookupType": "KYCType",
+    "code": "GSTC",
+    "description": "GST Certificate"
+  },
+  {
+    "lookupId": 119,
+    "lookupType": "KYCType",
+    "code": "CRGC",
+    "description": "Company Registration Certificate"
+  },
+  {
+    "lookupId": 120,
+    "lookupType": "FundraiseRequestFor",
+    "code": "YRSF",
+    "description": "Yourself"
+  },
+  {
+    "lookupId": 121,
+    "lookupType": "FundraiseRequestFor",
+    "code": "SMES",
+    "description": "Someone Else"
+  },
+  {
+    "lookupId": 122,
+    "lookupType": "FundraiseRequestFor",
+    "code": "ORGZ",
+    "description": "Organization"
+  },
+  {
+    "lookupId": 123,
+    "lookupType": "FundRaiseStatus",
+    "code": "INRW",
+    "description": "InReview"
+  },
+  {
+    "lookupId": 124,
+    "lookupType": "FundRaiseStatus",
+    "code": "RJCT",
+    "description": "Rejected"
+  },
+  {
+    "lookupId": 125,
+    "lookupType": "FundRaiseReportReasons",
+    "code": "NCLG",
+    "description": "No Clear Goals"
+  },
+  {
+    "lookupId": 126,
+    "lookupType": "FundRaiseReportReasons",
+    "code": "OTHR",
+    "description": "Other"
+  },
+  {
+    "lookupId": 127,
+    "lookupType": "FundRaisePauseReasons",
+    "code": "MYRP",
+    "description": "Many Reported"
+  },
+  {
+    "lookupId": 128,
+    "lookupType": "FundRaisePauseReasons",
+    "code": "TRAD",
+    "description": "Target Achieved"
+  },
+  {
+    "lookupId": 129,
+    "lookupType": "FundRaisePauseReasons",
+    "code": "UFCR",
+    "description": "Unforeseen Circumstances"
+  },
+  {
+    "lookupId": 130,
+    "lookupType": "FundRaisePauseReasons",
+    "code": "OTHR",
+    "description": "Other"
+  },
+  {
+    "lookupId": 132,
+    "lookupType": "KycVerificationStatus",
+    "code": "RJCT",
+    "description": "Rejected"
+  },
+  {
+    "lookupId": 133,
+    "lookupType": "KycVerificationStatus",
+    "code": "INRW",
+    "description": "InReview"
+  },
+  {
+    "lookupId": 134,
+    "lookupType": "ProfileDeleteReason",
+    "code": "DACC",
+    "description": "I have a duplicate account"
+  },
+  {
+    "lookupId": 135,
+    "lookupType": "ProfileDeleteReason",
+    "code": "EMLS",
+    "description": "I'm getting too many emails"
+  },
+  {
+    "lookupId": 136,
+    "lookupType": "ProfileDeleteReason",
+    "code": "NOND",
+    "description": "I'm not using it anymore (or)  No longer have a need for this service"
+  },
+  {
+    "lookupId": 137,
+    "lookupType": "ProfileDeleteReason",
+    "code": "NOTM",
+    "description": "I don't have time to use this app"
+  },
+  {
+    "lookupId": 138,
+    "lookupType": "ProfileDeleteReason",
+    "code": "ALTV",
+    "description": "I found better alternative"
+  },
+  {
+    "lookupId": 139,
+    "lookupType": "ProfileDeleteReason",
+    "code": "OTHR",
+    "description": "Other"
+  },
+  {
+    "lookupId": 95,
+    "lookupType": "NoticeTargetType",
+    "code": "CMGP",
+    "description": "Commitee/Group"
+  },
+  {
+    "lookupId": 96,
+    "lookupType": "NoticeTargetType",
+    "code": "INDL",
+    "description": "An Individual"
+  },
+  {
+    "lookupId": 142,
+    "lookupType": "AssociationSettingType",
+    "code": "ACTR",
+    "description": "Access Control"
+  },
+  {
+    "lookupId": 143,
+    "lookupType": "AssociationSettingType",
+    "code": "DFLT",
+    "description": "Defaults"
+  },
+  {
+    "lookupId": 144,
+    "lookupType": "NomineeRelationship",
+    "code": "SPUS",
+    "description": "Spouse"
+  },
+  {
+    "lookupId": 145,
+    "lookupType": "NomineeRelationship",
+    "code": "SONU",
+    "description": "Son"
+  },
+  {
+    "lookupId": 146,
+    "lookupType": "NomineeRelationship",
+    "code": "DTHR",
+    "description": "Daughter"
+  },
+  {
+    "lookupId": 147,
+    "lookupType": "NomineeRelationship",
+    "code": "FTHR",
+    "description": "Father"
+  },
+  {
+    "lookupId": 148,
+    "lookupType": "NomineeRelationship",
+    "code": "MTHR",
+    "description": "Mother"
+  },
+  {
+    "lookupId": 149,
+    "lookupType": "NomineeRelationship",
+    "code": "BTHR",
+    "description": "Brother"
+  },
+  {
+    "lookupId": 150,
+    "lookupType": "NomineeRelationship",
+    "code": "STSR",
+    "description": "Sister"
+  },
+  {
+    "lookupId": 151,
+    "lookupType": "NomineeRelationship",
+    "code": "GNDS",
+    "description": "Grand Son"
+  },
+  {
+    "lookupId": 152,
+    "lookupType": "NomineeRelationship",
+    "code": "GDDT",
+    "description": "Grand Daughter"
+  },
+  {
+    "lookupId": 153,
+    "lookupType": "NomineeRelationship",
+    "code": "GDFT",
+    "description": "Grand Father"
+  },
+  {
+    "lookupId": 154,
+    "lookupType": "NomineeRelationship",
+    "code": "GDMT",
+    "description": "Grand Mother"
+  },
+  {
+    "lookupId": 155,
+    "lookupType": "NomineeRelationship",
+    "code": "LEGR",
+    "description": "Legal Guardian"
+  },
+  {
+    "lookupId": 156,
+    "lookupType": "NomineeRelationship",
+    "code": "COSN",
+    "description": "Cousin"
+  },
+  {
+    "lookupId": 157,
+    "lookupType": "NomineeRelationship",
+    "code": "NWNC",
+    "description": "Nephew/Niece"
+  },
+  {
+    "lookupId": 158,
+    "lookupType": "NomineeRelationship",
+    "code": "UNAT",
+    "description": "Uncle/Aunt"
+  },
+  {
+    "lookupId": 159,
+    "lookupType": "NomineeRelationship",
+    "code": "FRND",
+    "description": "Friend"
+  },
+  {
+    "lookupId": 160,
+    "lookupType": "NomineeRelationship",
+    "code": "NTPD",
+    "description": "Not Provided"
+  },
+  {
+    "lookupId": 161,
+    "lookupType": "ChapterType",
+    "code": "NCHP",
+    "description": "National Chapter"
+  },
+  {
+    "lookupId": 162,
+    "lookupType": "ChapterType",
+    "code": "SCHP",
+    "description": "State Chapter"
+  },
+  {
+    "lookupId": 163,
+    "lookupType": "ChapterType",
+    "code": "CCHP",
+    "description": "City Chapter"
+  },
+  {
+    "lookupId": 164,
+    "lookupType": "ChapterType",
+    "code": "BCHP",
+    "description": "Branch Chapter"
+  },
+  {
+    "lookupId": 165,
+    "lookupType": "ChapterType",
+    "code": "CZON",
+    "description": "Central Zone"
+  },
+  {
+    "lookupId": 166,
+    "lookupType": "ChapterType",
+    "code": "EZON",
+    "description": "East Zone"
+  },
+  {
+    "lookupId": 167,
+    "lookupType": "ChapterType",
+    "code": "WZON",
+    "description": "West Zone"
+  },
+  {
+    "lookupId": 168,
+    "lookupType": "ChapterType",
+    "code": "NZON",
+    "description": "North Zone"
+  },
+  {
+    "lookupId": 169,
+    "lookupType": "ChapterType",
+    "code": "SZON",
+    "description": "South Zone"
+  },
+  {
+    "lookupId": 99,
+    "lookupType": "PollOrSurveyTargetType",
+    "code": "ALMB",
+    "description": "All Members"
+  },
+  {
+    "lookupId": 100,
+    "lookupType": "PollOrSurveyTargetType",
+    "code": "CMGP",
+    "description": "Commitee/Group"
+  },
+  {
+    "lookupId": 170,
+    "lookupType": "BankingPaymentType",
+    "code": "BNKA",
+    "description": "Bank Account"
+  },
+  {
+    "lookupId": 171,
+    "lookupType": "BankingPaymentType",
+    "code": "UPID",
+    "description": "UPI ID"
+  },
+  {
+    "lookupId": 172,
+    "lookupType": "HelpdeskOptionType",
+    "code": "SOPT",
+    "description": "SubOptions"
+  },
+  {
+    "lookupId": 173,
+    "lookupType": "HelpdeskOptionType",
+    "code": "LOGT",
+    "description": "Log a Ticket"
+  },
+  {
+    "lookupId": 174,
+    "lookupType": "HelpdeskOptionType",
+    "code": "INFR",
+    "description": "Information"
+  },
+  {
+    "lookupId": 175,
+    "lookupType": "SupporPriority",
+    "code": "HIGH",
+    "description": "High"
+  },
+  {
+    "lookupId": 176,
+    "lookupType": "SupporPriority",
+    "code": "RGLR",
+    "description": "Regular"
+  },
+  {
+    "lookupId": 177,
+    "lookupType": "SupporPriority",
+    "code": "CRTC",
+    "description": "Critical"
+  },
+  {
+    "lookupId": 101,
+    "lookupType": "PollOrSurveyTargetType",
+    "code": "ANYO",
+    "description": "Anyone"
+  },
+  {
+    "lookupId": 23,
+    "lookupType": "DocumentTargetType",
+    "code": "ANYO",
+    "description": "Anyone"
+  },
+  {
+    "lookupId": 181,
+    "lookupType": "SupportRequestStatus",
+    "code": "CLSD",
+    "description": "Closed"
+  },
+  {
+    "lookupId": 178,
+    "lookupType": "SupportRequestStatus",
+    "code": "OPEN",
+    "description": "Open"
+  },
+  {
+    "lookupId": 24,
+    "lookupType": "DocumentTargetType",
+    "code": "ALMB",
+    "description": "All Members"
+  },
+  {
+    "lookupId": 26,
+    "lookupType": "DocumentTargetType",
+    "code": "CMGP",
+    "description": "Committee/Group"
+  },
+  {
+    "lookupId": 191,
+    "lookupType": "DashboardModuleTargetType",
+    "code": "ALMB",
+    "description": "All Members"
+  },
+  {
+    "lookupId": 192,
+    "lookupType": "DashboardModuleTargetType",
+    "code": "CMGP",
+    "description": "Committee/Group"
+  },
+  {
+    "lookupId": 185,
+    "lookupType": "DashbaordModuleType",
+    "code": "NTCB",
+    "description": "Noticeboard"
+  },
+  {
+    "lookupId": 186,
+    "lookupType": "DashbaordModuleType",
+    "code": "EVNT",
+    "description": "Events"
+  },
+  {
+    "lookupId": 188,
+    "lookupType": "DashbaordModuleType",
+    "code": "PLSR",
+    "description": "Poll/Survey Results"
+  },
+  {
+    "lookupId": 182,
+    "lookupType": "NotificationSettingType",
+    "code": "EMAL",
+    "description": "Email"
+  },
+  {
+    "lookupId": 183,
+    "lookupType": "NotificationSettingType",
+    "code": "PUSH",
+    "description": "Push"
+  },
+  {
+    "lookupId": 184,
+    "lookupType": "NotificationSettingType",
+    "code": "ALLN",
+    "description": "All Notifications"
+  },
+  {
+    "lookupId": 189,
+    "lookupType": "DashboardModuleTargetType",
+    "code": "ANYO",
+    "description": "Association"
+  },
+  {
+    "lookupId": 193,
+    "lookupType": "DashboardModuleTargetType",
+    "code": "INDL",
+    "description": "An Individual"
+  },
+  {
+    "lookupId": 131,
+    "lookupType": "KycVerificationStatus",
+    "code": "ACPT",
+    "description": "Verified"
+  },
+  {
+    "lookupId": 199,
+    "lookupType": "AssociationVolunteerStatus",
+    "code": "ACTV",
+    "description": "Active"
+  },
+  {
+    "lookupId": 187,
+    "lookupType": "DashbaordModuleType",
+    "code": "CMAD",
+    "description": "Commercial Ad"
+  },
+  {
+    "lookupId": 201,
+    "lookupType": "UserBusinessStatus",
+    "code": "ACTV",
+    "description": "Active"
+  },
+  {
+    "lookupId": 202,
+    "lookupType": "UserBusinessStatus",
+    "code": "IACV",
+    "description": "InActive"
+  },
+  {
+    "lookupId": 203,
+    "lookupType": "DonationPurposeStatus",
+    "code": "ACTV",
+    "description": "Active"
+  },
+  {
+    "lookupId": 204,
+    "lookupType": "DonationPurposeStatus",
+    "code": "IACV",
+    "description": "InActive"
+  },
+  {
+    "lookupId": 217,
+    "lookupType": "ChapterType",
+    "code": "GCHP",
+    "description": "Global Chapter"
+  },
+  {
+    "lookupId": 219,
+    "lookupType": "AssociationLinkStatus",
+    "code": "PEND",
+    "description": "Pending"
+  },
+  {
+    "lookupId": 222,
+    "lookupType": "DocumentExpiryType",
+    "code": "TMEX",
+    "description": "Time Expiry"
+  },
+  {
+    "lookupId": 200,
+    "lookupType": "AssociationVolunteerStatus",
+    "code": "ADAP",
+    "description": "Admin Approval Pending"
+  },
+  {
+    "lookupId": 223,
+    "lookupType": "AssociationVolunteerStatus",
+    "code": "USAP",
+    "description": "User Acceptance Pending"
+  },
+  {
+    "lookupId": 224,
+    "lookupType": "UserRoleType",
+    "code": "ADMN",
+    "description": "Administrator"
+  },
+  {
+    "lookupId": 225,
+    "lookupType": "UserType",
+    "code": "USER",
+    "description": "Users"
+  },
+  {
+    "lookupId": 226,
+    "lookupType": "UserType",
+    "code": "ADUS",
+    "description": "Admin Users"
+  },
+  {
+    "lookupId": 227,
+    "lookupType": "DonationFrequency",
+    "code": "ONTM",
+    "description": "OneTime"
+  },
+  {
+    "lookupId": 228,
+    "lookupType": "DonationFrequency",
+    "code": "MNTH",
+    "description": "Monthly"
+  },
+  {
+    "lookupId": 229,
+    "lookupType": "DonationFrequency",
+    "code": "QTLY",
+    "description": "Quaterly"
+  },
+  {
+    "lookupId": 230,
+    "lookupType": "DonationFrequency",
+    "code": "YEAR",
+    "description": "Anually"
+  }
+]
