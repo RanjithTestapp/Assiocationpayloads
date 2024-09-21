@@ -1,0 +1,30 @@
+{
+  "id": 0,
+  "teraServiceId": 197,
+  "teraServiceName": "Equipment Rental",
+  "statusID": 0,
+  "status": "",
+  "contactPhoneNumber": 9099838389,
+  "contactEmail": "Abey@gmail.com",
+  "notes": "\n1. Type of Equipment Needed\n\nSpecific Name: Define the exact type of equipment (e.g., construction equipment, IT hardware, cameras, etc.).\n\nQuantity: Specify how many units are required.\n\nSpecifications: Detail technical specs such as size, power, weight, capacity, brand preferences, etc.\n\n\n2. Rental Period\n\nDuration: Clearly state how long you need the equipment (e.g., daily, weekly, monthly).\n\nStart Date and End Date: Mention exact dates for when the rental should begin and end. This is thr\n\n",
+  "secondaryPhoneNumber": null,
+  "secondaryEmail": "",
+  "isFeedBackSubmitted": false,
+  "logo": "https://s3.ap-south-1.amazonaws.com/teraconnects-dev-objects/logo/5c5f167b-4954-47ea-8957-289bace89696.png",
+  "clientName": "Manvi Multispeciality Clinic",
+  "location": "Hyderabad, Telangana",
+  "leadStats": {
+    "newleads": 0,
+    "activeleads": 0
+  },
+  "quotations": null,
+    "updatedDate": "2024-09-21T08:10:52.396662",
+    "supportingDocuments": [
+        {
+            "id": 0,
+            "documentTypeId": 362,
+            "documentType": "Service Request Gallery",
+            "documentUrl": "https://s3.ap-south-1.amazonaws.com/teraconnects-dev-objects/RegistrationCertificate/download (1).png"
+        }
+    ]
+}
