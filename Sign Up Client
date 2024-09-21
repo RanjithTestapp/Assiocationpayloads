@@ -1,0 +1,24 @@
+{
+  "otp": 1111,
+  "orgName": "Manvi Multispeciality Clinic",
+  "orgTypeId": 512,
+  "orgType": "Homeopathy College",
+  "branchName": "Bandlagudajagir",
+  "cityId": 1,
+  "stateId": 32,
+  "geolocation": {
+    "x": 0,
+    "y": 0
+  },
+  "pan": "",
+  "registrationNumber": "",
+  "firstName": "Guru",
+  "lastName": "Krishna",
+  "emailId": "Krishnak@gmail.com",
+  "phoneNumber": 9912964586,
+  "systemRoleID": 0,
+  "registrationDocumentUrl": "",
+  "gstin": "",
+  "middleName": "",
+  "referralCode": ""
+}
