@@ -1,0 +1,99 @@
+{
+  "eventId": 0,
+  "associationId": 178,
+  "categoryTypeId": 4,
+  "title": "TechFuture Summit 2024",
+  "description": "An annual technology summit focusing on the future of AI, blockchain, and cybersecurity.",
+  "cityId": 148013,
+  "stateId": 32,
+  "countryId": 1,
+  "eventModeId": 43,
+  "registrationStartDate": "2024-10-11T09:28:22.282Z",
+  "registrationEndDate": "2024-11-10T09:28:22.282Z",
+  "eventStartDate": "2024-10-11T09:28:22.282Z",
+  "eventEndDate": "2024-11-10T09:28:22.282Z",
+  "broucherUrl": "",
+  "address": "Pakhal Kothguda, Telangana, India",
+  "videoUrl": "",
+  "eventStatusId": 41,
+  "phoneCode": "+91",
+  "phoneCountryId": 1,
+  "contactNumber": "8985246504",
+  "contactEmail": "gowtham.g@gmail.com",
+  "webSite": "",
+  "geolocation": {
+    "x": 17.4575952,
+    "y": 78.36394930000002
+  },
+  "isFreeEvent": True,
+  "noOfSeats": 10,
+  "isPlatfromFeePaidByPartcipant": false,
+  "isPrivateEvent": false,
+  "bannerUrls": [
+    ""
+  ],
+  "organizingGroups": [
+    213
+  ],
+  "eventRegistrationDetails": [
+    {
+      "eventRegistrationDetailId": 0,
+      "eventId": 0,
+      "isFoodProvided": true,
+      "isAccommodationProvided": true,
+      "isTransportProvided": true,
+      "title": "Advance Enrollment",
+      "applicableTillDate": "2024-11-10T09:28:22.282Z",
+      "applicableRegistrationFee": 9000,
+      "applicableCurrencyCode": "INR",
+      "onspotCurrencyCode": "INR",
+      "applicableCurrencyCountryId": 1,
+      "onspotCurrencyCountryId": 1,
+      "onSpotRegistrationFee": 15000,
+      "registeredMembers": 0
+    }
+  ],
+  "agenda": [
+    {
+      "eventAgendaId": 0,
+      "eventId": 0,
+      "title": "ORPHAN & POOR CHILDREN SUPPORT",
+      "description": "An in-depth look at the future of artificial intelligence in India and its potential impact on various sector",
+      "agendaDate": "2024-10-11T08:56:15.124Z",
+      "startTime": "10:00:00",
+      "endTime": "12:00:00",
+      "presenters": [
+        962,963
+      ],
+      "presentersDetails": ""
+    }
+  ],
+  "eventGuidelines": {
+    "eventGuidelineId": 0,
+    "eventId": 0,
+    "registrationGuidelines": "Register before November 20 to avail the early bird offer",
+    "cancellationGuidelines": "Refunds will be provided if cancellation is made before December 1",
+    "importantGuidelines": "COVID-19 safety measures will be in place."
+  },
+  "eventAccountInfo": {
+    "eventAccountInfoId": 0,
+    "eventId": 0,
+    "name": "TechFuture Summit",
+    "bankName": "",
+    "bankAccountNumber": "tate Bank of India",
+    "bankRoutingTypeId": 0,
+    "bankRoutingType": "1234567890",
+    "bankRoutingCode": "",
+    "isOrgAccount": true,
+    "upiId": "",
+    "bankingPaymentTypeId": 0
+  },
+  "hasRegistered": true,
+  "bannerUrlsString": "",
+  "categoryType": "Charity & Causes",
+  "eventMode": "In Person",
+  "isBookmarked": true,
+  "associationName": "",
+  "isFeaturedEvent": true,
+  "minFee": ""
+}
