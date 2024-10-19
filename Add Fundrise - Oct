@@ -1,0 +1,31 @@
+{
+  "fundRaisingId": 0,
+  "fundRaisingTypeId": 16,
+  "fundRaisingCategoryId": 4,
+  "fundRaisingRequestForId": 122,
+  "title": "Support Education for Underprivileged Children",
+  "description": "This fundraising campaign is dedicated to providing essential education resources such as books, uniforms, and tuition support for underprivileged children in rural areas. Your donation will make a difference in their future.",
+  "currencyCode": "₹",
+  "currencyCountryId": 1,
+  "targetAmount": 90000.0,
+  "targetEndDate": "2024-11-30T00:00:00.000",
+  "isTaxBenefitApplicable": false,
+  "applicableTaxCode": "",
+  "videoUrl": null,
+  "images": [
+    {
+      "fundRaisingGalleryId": 0,
+      "imageUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/funding/download (2).png"
+    }
+  ],
+  "documents": [],
+  "beneficiaryAccountDetails": null,
+  "beneficiaryDetails": null,
+  "linkedAsscoiations": [
+    {
+      "associationId": 99,
+      "name": "India Foundation ",
+      "logoUrl": "https://s3.ap-south-1.amazonaws.com/myassociation-dev-objects/Profile/f7ccbbc5-5013-42a3-b821-e7d28a41e73d.jpg"
+    }
+  ]
+}
