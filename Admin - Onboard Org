@@ -1,0 +1,40 @@
+{
+    "associationTypeId": 1,
+    "associationType": "Association",
+    "associationIndustryId": 5,
+    "associationIndustry": "Social",
+    "associationCategoryTypeId": 37,
+    "associationCategory": "Cultural & Arts",
+    "name": "Movie Artist Association",
+    "address1": "8-2-293/8, 1st Floor, Film Nagar Co-Op Housing, AP Film Chamber of Commerce, Film Nagar, Hyderabad, Telangana 500096, India",
+    "cityId": "1",
+    "registrationDate": "1994-01-01",
+    "website": "https://www.maa.asia/index.html",
+    "contactEmailId": "office@maa.asia.com",
+    "phonecode": "+91",
+    "contactPhoneNumber": "9950099674",
+    "secondaryEmailId": "",
+    "logoUrl": null,
+    "coverPicUrl": "",
+    "registrationActId": 0,
+    "memberSizeRangeId": 13,
+    "memberSizeRangeValue": "100-1000",
+    "currentMemberCount": 0,
+    "referralCode": "",
+    "about": "Telugu cinema mother's sweet babies...\nActors Association has a history of 26 years in the Telugu film industry. Movie Artistes Association was formed in 1994 for the resolution of issues related to actors, dispute resolution and welfare of members. Then there were only one hundred members. Chiranjeevi was the founder president of the association.",
+    "membershipNumberFormat": "MAA-ASS-01",
+    "creator": {
+        "firstName": "vishnu",
+        "lastName": "Manchu",
+        "phoneNumber": "9000989345",
+        "emailId": "Vishnumanchu@gmail.com",
+        "joinedDate": "2023-10-25T05:38:09.384Z",
+        "registrationNumber": "MAA-ASS-01"
+    },
+    "geolocation": {
+        "x": 17.415808,
+        "y": 78.41089600000001
+    },
+    "associationId": 0,
+    "isApprovalRequiredForNewMembers": true
+}
